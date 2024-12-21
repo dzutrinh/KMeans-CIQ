@@ -6,4 +6,7 @@ Build: `make`
 
 Usage: `./ciq input.ppm output.ppm [K]`
 
+Tested on:
+- macOS (Clang)
+- MS-DOS (DosBox/DJGPP)
 
